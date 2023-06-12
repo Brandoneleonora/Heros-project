@@ -1,0 +1,64 @@
+{
+    "heroes": [
+      {
+        "id": 1,
+        "name": "Superman",
+        "stamina": 100,
+        "strength": 95
+      },
+      {
+        "id": 2,
+        "name": "Wonder Woman",
+        "stamina": 90,
+        "strength": 90
+      },
+      {
+        "id": 3,
+        "name": "Spider-Man",
+        "stamina": 80,
+        "strength": 80
+      },
+      {
+        "id": 4,
+        "name": "Black Widow",
+        "stamina": 70,
+        "strength": 75
+      },
+      {
+        "id": 5,
+        "name": "Thor",
+        "stamina": 95,
+        "strength": 100
+      },
+      {
+        "id": 6,
+        "name": "Captain America",
+        "stamina": 85,
+        "strength": 85
+      },
+      {
+        "id": 7,
+        "name": "Hulk",
+        "stamina": 100,
+        "strength": 98
+      },
+      {
+        "id": 8,
+        "name": "Batman",
+        "stamina": 80,
+        "strength": 85
+      },
+      {
+        "id": 9,
+        "name": "Black Panther",
+        "stamina": 90,
+        "strength": 90
+      },
+      {
+        "id": 10,
+        "name": "Green Lantern",
+        "stamina": 85,
+        "strength": 85
+      }
+    ]
+  }
